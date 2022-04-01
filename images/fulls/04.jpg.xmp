@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+   exif:DateTimeOriginal="2020:09:11 18:58:48"
+   xmp:Rating="5"
+   xmpMM:DerivedFrom="04.jpg"
+   darktable:import_timestamp="1648764613"
+   darktable:change_timestamp="-1"
+   darktable:export_timestamp="1648764656"
+   darktable:print_timestamp="-1"
+   darktable:xmp_version="4"
+   darktable:raw_params="0"
+   darktable:auto_presets_applied="1"
+   darktable:history_end="5"
+   darktable:iop_order_version="1"
+   darktable:history_auto_hash="c0e195d91ed5aac6b5ff234accf57807"
+   darktable:history_current_hash="c0e195d91ed5aac6b5ff234accf57807">
+   <darktable:colorlabels>
+    <rdf:Seq>
+     <rdf:li>0</rdf:li>
+    </rdf:Seq>
+   </darktable:colorlabels>
+   <darktable:masks_history>
+    <rdf:Seq/>
+   </darktable:masks_history>
+   <darktable:history>
+    <rdf:Seq>
+     <rdf:li
+      darktable:num="0"
+      darktable:operation="colorin"
+      darktable:enabled="1"
+      darktable:modversion="6"
+      darktable:params="gz02eJxNjjcWq0YAAF248VkoSCsBJSByErALgo4gchIZTu/vzlNMOW/++esP+rkSZKdJNJ8JOD/l0m0Sc3idjf/pwjpug7jEcHCM7BEr1RiLQxIp+e+lxlGca1JQIaMxJZjPzrC5j/URCOCmc3+puPR4NvzSEL18+7q14AV+YPh6AHbfgUP72nbt4hqZdlpCCQnFeyNba36DYWX6d4VnsPpcOsohBbJX+0UTWzi95wKwe5qCdt6I0FeDYOjt1CEvNTatnBoPBefa9XQ6zP52bEPQKd35UrO4JLZ2ZjTMWUmTrbNyMjUNwXceVcaunC8MuxLkMX8opJSbPyFBX3a7ZXYVHoxLck1cAEirQhxFE3ekrrEdxy5DUgNUW+rulp1FcVKM806i3RAxecajdRmYJarfhEKANEXa3kvs9hWZ6yU8COzUKSB8t12HPkJjY6GGgeJ0dIq6MZUWDUwtD5WEMyfmAnLRO2pJAq9pEM/VAAJEOIJ6T156GiQ4WSri0si6dgF11WMXNsoWJj2zwSL300CUz8WvljlzMTpqPNsXLpcMafkgT9OlP58A/PU//v5PTWv7j+7xInA0Xr4Oz6zNYXkZiRiNbRrdwcNyODqru2sVwl4MmnrjNr2qyo+pvqa+WsJ9wBx1KeeHiv35IV0Dy29uN5W0f8dWVrHZz7uT4KvyHEFsl0kokfsomYscQxdziiEVv85iw13DXTINqwBC2bT3QJU+1PqTOUcFxgXzT/t8zzCRtifXcQ2FH8CQ8kNq209UPqmMf3sTVkb1kzcS24BetUaYe46FjVmW1/bG/Jr3j6j3lNX5smgq2rUGP99KuUsWcqFg63xMzA79EF5SjRyINXlvljCTyHkZzz7sh1iYidCOYYsS/RtgL6MIMXUJL9dIuc5W+Erhcadbu7OOaC0L94TQnbHBoVzWa/tKJKK/L5+orj95D4nFM2aNOP/JjExFKxF6OXXQw5ETiOWeyhTKHjTXEh5rn+8/+Gx55j0Dc9zhel/8sbzZFf0oWcuer7U+aBcWk5/LN3vzP3nWV3Qh9rVLkyNt+s0f73bnESFVoUWRuud+rqkOiHcAnB5e/r+EKFab"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="9"
+      darktable:blendop_params="gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ="/>
+     <rdf:li
+      darktable:num="1"
+      darktable:operation="colorout"
+      darktable:enabled="1"
+      darktable:modversion="5"
+      darktable:params="gz35eJxjZBgFo4CBAQAEEAAC"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="9"
+      darktable:blendop_params="gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ="/>
+     <rdf:li
+      darktable:num="2"
+      darktable:operation="gamma"
+      darktable:enabled="1"
+      darktable:modversion="1"
+      darktable:params="0000000000000000"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="9"
+      darktable:blendop_params="gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ="/>
+     <rdf:li
+      darktable:num="3"
+      darktable:operation="flip"
+      darktable:enabled="1"
+      darktable:modversion="2"
+      darktable:params="ffffffff"
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="9"
+      darktable:blendop_params="gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ="/>
+     <rdf:li
+      darktable:num="4"
+      darktable:operation="lens"
+      darktable:enabled="1"
+      darktable:modversion="5"
+      darktable:params="gz02eJyzZoCAowoN9rJRR+wZGCY4MjAkOJh2FjgwAsX9MrPz8xRczA0NDBhEFBgZRIBiYBooG2LAyGAiwABmwzEDEj8Bwg8pAKoLALIboPINUPkFjAwxEgwMphsQfLD8Aaj5Fxih9ju66QYruEQoAHnZ+UUKhha6hiYGubkKafrGeqa6pnpm7gquLgphQUCz0NwDNj8Av3tCgLQJsv1AOgQov2UzIzR0GuwhmIEBAHQjLWA="
+      darktable:multi_name=""
+      darktable:multi_priority="0"
+      darktable:blendop_version="9"
+      darktable:blendop_params="gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ="/>
+    </rdf:Seq>
+   </darktable:history>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Kloria Wen</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:publisher>
+    <rdf:Bag>
+     <rdf:li>Kloria Wen</rdf:li>
+    </rdf:Bag>
+   </dc:publisher>
+   <dc:rights>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Kloria Wen</rdf:li>
+    </rdf:Alt>
+   </dc:rights>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
